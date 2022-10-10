@@ -1,0 +1,4 @@
+short       int          int         int          int          double         double
+CENTURY     thisYear     nextYear    thisMonth    feburary     twentyNine     thisYear
+2000        2010         2013        2046         2013         28.0           2016.5
+            2011                                  2                  
